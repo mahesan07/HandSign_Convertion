@@ -6,6 +6,7 @@ import react from "@vitejs/plugin-react";
 // there are no CORS or mixed-content surprises with the websocket.
 export default defineConfig({
   plugins: [react()],
+  base: "/HandSign_Convertion/",
   server: {
     port: 5173,
     proxy: {
