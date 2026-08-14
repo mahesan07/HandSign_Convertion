@@ -1,5 +1,39 @@
-venv/
-__pycache__/
-*.pyc
-*.pyo
+# --- Secrets ----------------------------------------------------------
 .env
+.env.local
+*.key
+
+# --- Python -----------------------------------------------------------
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Models -----------------------------------------------------------
+# models/sign_model.pkl and models/hand_landmarker.task ARE committed:
+# the app is unusable without them. Only training backups are ignored.
+*.pkl.bak
+
+# --- Node / frontend --------------------------------------------------
+node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-error.log*
+
+# --- Editors and OS ---------------------------------------------------
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+archive/
+*.tsbuildinfo

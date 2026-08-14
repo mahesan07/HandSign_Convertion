@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Hand sign for the letter M">
+  <title>Letter M</title>
+  <defs>
+    <linearGradient id="inkM" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b8cf7" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+  <g stroke="url(#inkM)" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.92">
+    <line x1="72.89" y1="114.00" x2="52.50" y2="96.53" />
+    <line x1="52.50" y1="96.53" x2="46.92" y2="64.85" />
+    <line x1="46.92" y1="64.85" x2="60.20" y2="45.80" />
+    <line x1="60.20" y1="45.80" x2="74.60" y2="33.04" />
+    <line x1="72.89" y1="114.00" x2="45.98" y2="39.98" />
+    <line x1="45.98" y1="39.98" x2="39.05" y2="20.50" />
+    <line x1="39.05" y1="20.50" x2="38.88" y2="40.30" />
+    <line x1="38.88" y1="40.30" x2="40.54" y2="59.96" />
+    <line x1="45.98" y1="39.98" x2="59.39" y2="37.59" />
+    <line x1="59.39" y1="37.59" x2="51.83" y2="16.05" />
+    <line x1="51.83" y1="16.05" x2="50.33" y2="41.30" />
+    <line x1="50.33" y1="41.30" x2="51.41" y2="62.77" />
+    <line x1="59.39" y1="37.59" x2="73.83" y2="41.57" />
+    <line x1="73.83" y1="41.57" x2="68.65" y2="14.00" />
+    <line x1="68.65" y1="14.00" x2="64.76" y2="37.85" />
+    <line x1="64.76" y1="37.85" x2="64.57" y2="58.95" />
+    <line x1="73.83" y1="41.57" x2="89.12" y2="49.06" />
+    <line x1="89.12" y1="49.06" x2="80.61" y2="39.28" />
+    <line x1="80.61" y1="39.28" x2="76.53" y2="58.23" />
+    <line x1="76.53" y1="58.23" x2="77.36" y2="73.78" />
+    <line x1="72.89" y1="114.00" x2="89.12" y2="49.06" />
+  </g>
+  <circle cx="72.89" cy="114.00" r="3.00" fill="url(#inkM)" />
+  <circle cx="52.50" cy="96.53" r="3.32" fill="url(#inkM)" />
+  <circle cx="46.92" cy="64.85" r="3.50" fill="url(#inkM)" />
+  <circle cx="60.20" cy="45.80" r="3.71" fill="url(#inkM)" />
+  <circle cx="74.60" cy="33.04" r="5.30" fill="#f9a8d4" />
+  <circle cx="45.98" cy="39.98" r="3.06" fill="url(#inkM)" />
+  <circle cx="39.05" cy="20.50" r="3.69" fill="url(#inkM)" />
+  <circle cx="38.88" cy="40.30" r="4.11" fill="url(#inkM)" />
+  <circle cx="40.54" cy="59.96" r="5.70" fill="#f9a8d4" />
+  <circle cx="59.39" cy="37.59" r="3.15" fill="url(#inkM)" />
+  <circle cx="51.83" cy="16.05" r="3.82" fill="url(#inkM)" />
+  <circle cx="50.33" cy="41.30" r="4.08" fill="url(#inkM)" />
+  <circle cx="51.41" cy="62.77" r="5.49" fill="#f9a8d4" />
+  <circle cx="73.83" cy="41.57" r="3.34" fill="url(#inkM)" />
+  <circle cx="68.65" cy="14.00" r="3.98" fill="url(#inkM)" />
+  <circle cx="64.76" cy="37.85" r="4.00" fill="url(#inkM)" />
+  <circle cx="64.57" cy="58.95" r="5.29" fill="#f9a8d4" />
+  <circle cx="89.12" cy="49.06" r="3.55" fill="url(#inkM)" />
+  <circle cx="80.61" cy="39.28" r="4.08" fill="url(#inkM)" />
+  <circle cx="76.53" cy="58.23" r="4.12" fill="url(#inkM)" />
+  <circle cx="77.36" cy="73.78" r="5.44" fill="#f9a8d4" />
+  <circle cx="72.89" cy="114.00" r="8.5" fill="none" stroke="url(#inkM)" stroke-width="1.6" opacity="0.45" />
+</svg>

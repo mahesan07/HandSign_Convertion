@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="HandSign Conversion - real-time sign language to text, and English text rendered as hand signs."
+    />
+    <meta name="theme-color" content="#f5f3fd" />
+    <link rel="icon" href="/signs/H.svg" type="image/svg+xml" />
+    <title>HandSign Conversion</title>
+    <script>
+      // Set the theme before first paint. Without this the page renders in
+      // the default dark palette and then flips, which is very visible on a
+      // light-theme machine.
+      (function () {
+        try {
+          var saved = localStorage.getItem("handsign-theme");
+          var theme =
+            saved === "light" || saved === "dark"
+              ? saved
+              : window.matchMedia("(prefers-color-scheme: dark)").matches
+                ? "dark"
+                : "light";
+          document.documentElement.setAttribute("data-theme", theme);
+        } catch (e) {
+          document.documentElement.setAttribute("data-theme", "light");
+        }
+      })();
+    </script>
+    <style>
+      /* Paint the page background immediately, before the CSS bundle lands. */
+      html[data-theme="light"] { background: #f5f3fd; }
+      html[data-theme="dark"] { background: #14121f; }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      HandSign Conversion needs JavaScript to read your camera and show
+      recognised signs.
+    </noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

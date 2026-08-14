@@ -1,0 +1,178 @@
+# Everyday conversational sentences.
+# The local suggestion engine builds bigram/trigram continuations from these,
+# and offers whole lines as sentence suggestions when the typed text is a
+# prefix of one.  Written for the everyday-communication setting this app is
+# built for.  Lines starting with '#' and blank lines are ignored.
+
+Hello, how are you?
+Hello, how are you doing?
+Hello, how are you today?
+Hello, nice to meet you.
+Hello, can you help me?
+Hello, my name is
+Hi, how are you?
+Hi, good to see you.
+Good morning, how are you?
+Good afternoon, how can I help?
+Good evening, how was your day?
+Good night, see you tomorrow.
+How are you feeling today?
+How are things going?
+How was your day?
+How can I help you?
+How much does it cost?
+How long will it take?
+How do I get there?
+How old are you?
+How many people are coming?
+I am fine, thank you.
+I am doing well, thank you.
+I am not feeling well.
+I am very tired today.
+I am hungry, can we eat?
+I am thirsty, can I have some water?
+I am sorry, I did not understand.
+I am happy to see you.
+I am ready to go.
+I am waiting for you.
+I am learning sign language.
+I need some help, please.
+I need to see a doctor.
+I need to go home now.
+I need more time, please.
+I want to learn more.
+I want to go home.
+I want to talk to you.
+I want to eat something.
+I would like some water, please.
+I would like to ask a question.
+I do not understand, please repeat.
+I do not know the answer.
+I can help you with that.
+I can not hear you.
+I will be there soon.
+I will call you later.
+I like this very much.
+I love you.
+I think that is a good idea.
+I have a question for you.
+I have to go now.
+Can you help me, please?
+Can you say that again?
+Can you speak more slowly?
+Can you write it down?
+Can you show me how?
+Can I ask you a question?
+Can I have some water?
+Can we talk later?
+Could you please repeat that?
+Could you help me with this?
+Would you like something to drink?
+Would you like to come with me?
+Do you understand me?
+Do you speak sign language?
+Do you need any help?
+Do you have any questions?
+Do you know where it is?
+Did you have a good day?
+What is your name?
+What is the time?
+What do you want to do?
+What do you mean?
+What happened here?
+What time is it?
+Where are you going?
+Where do you live?
+Where is the bathroom?
+Where can I find help?
+When are you coming back?
+When does it start?
+Why are you sad?
+Who is that person?
+Which one do you want?
+Thank you very much.
+Thank you for your help.
+Thank you for waiting.
+Thanks, that is very kind.
+You are welcome.
+Please help me.
+Please wait a moment.
+Please come here.
+Please speak slowly.
+Please write it down.
+Excuse me, can you help?
+I am sorry, excuse me.
+Sorry, I am late.
+Nice to meet you.
+See you later.
+See you tomorrow.
+Have a good day.
+Have a nice weekend.
+Take care of yourself.
+Good luck with everything.
+Let me know if you need anything.
+Let us go together.
+Let us start now.
+It is nice to see you.
+It is very important.
+It is too loud in here.
+It is time to go.
+That is a good idea.
+That is very kind of you.
+That sounds good to me.
+This is my friend.
+This is very difficult.
+My name is
+My family is here.
+My friend is waiting.
+The doctor is coming now.
+The class starts at nine.
+The bus is coming.
+We can go now.
+We need to talk.
+We are almost ready.
+Are you okay?
+Are you ready to go?
+Are you coming with us?
+Is everything okay?
+Is there a problem?
+Is it far from here?
+There is a problem here.
+Help me, please.
+Call the doctor, please.
+Call my family, please.
+Wait for me, please.
+Come with me, please.
+Slow down, please.
+One moment, please.
+Not right now, sorry.
+Yes, that is correct.
+No, that is not right.
+Maybe later, thank you.
+I feel much better now.
+I feel sick today.
+It hurts here.
+The pain is very bad.
+I need medicine, please.
+I need to rest now.
+Where is the hospital?
+The nurse will come soon.
+How are you feeling now?
+Are you in pain?
+I am going to school.
+I am going to work.
+I finished my homework.
+The teacher is here.
+May I ask a question?
+May I go outside?
+What is the homework?
+I understand now, thank you.
+Good job, well done.
+Keep going, you are doing well.
+Try again, you can do it.
+It is my turn now.
+Let us practice together.
+I am learning every day.
+Please be patient with me.
+Communication is important for everyone.
+Everyone should be able to talk.

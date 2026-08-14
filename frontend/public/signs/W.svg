@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Hand sign for the letter W">
+  <title>Letter W</title>
+  <defs>
+    <linearGradient id="inkW" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b8cf7" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+  <g stroke="url(#inkW)" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.92">
+    <line x1="69.36" y1="114.00" x2="59.17" y2="105.07" />
+    <line x1="59.17" y1="105.07" x2="55.53" y2="86.08" />
+    <line x1="55.53" y1="86.08" x2="63.41" y2="71.64" />
+    <line x1="63.41" y1="71.64" x2="73.23" y2="65.69" />
+    <line x1="69.36" y1="114.00" x2="58.02" y2="64.84" />
+    <line x1="58.02" y1="64.84" x2="50.86" y2="45.81" />
+    <line x1="50.86" y1="45.81" x2="46.82" y2="34.51" />
+    <line x1="46.82" y1="34.51" x2="44.40" y2="23.71" />
+    <line x1="58.02" y1="64.84" x2="67.14" y2="63.40" />
+    <line x1="67.14" y1="63.40" x2="65.25" y2="39.70" />
+    <line x1="65.25" y1="39.70" x2="63.77" y2="25.91" />
+    <line x1="63.77" y1="25.91" x2="62.89" y2="14.00" />
+    <line x1="67.14" y1="63.40" x2="75.43" y2="66.89" />
+    <line x1="75.43" y1="66.89" x2="77.85" y2="46.13" />
+    <line x1="77.85" y1="46.13" x2="77.54" y2="33.59" />
+    <line x1="77.54" y1="33.59" x2="77.65" y2="22.25" />
+    <line x1="75.43" y1="66.89" x2="83.28" y2="74.36" />
+    <line x1="83.28" y1="74.36" x2="83.60" y2="58.50" />
+    <line x1="83.60" y1="58.50" x2="79.27" y2="62.61" />
+    <line x1="79.27" y1="62.61" x2="75.97" y2="69.83" />
+    <line x1="69.36" y1="114.00" x2="83.28" y2="74.36" />
+  </g>
+  <circle cx="69.36" cy="114.00" r="3.00" fill="url(#inkW)" />
+  <circle cx="59.17" cy="105.07" r="3.47" fill="url(#inkW)" />
+  <circle cx="55.53" cy="86.08" r="3.60" fill="url(#inkW)" />
+  <circle cx="63.41" cy="71.64" r="3.67" fill="url(#inkW)" />
+  <circle cx="73.23" cy="65.69" r="5.15" fill="#f9a8d4" />
+  <circle cx="58.02" cy="64.84" r="3.24" fill="url(#inkW)" />
+  <circle cx="50.86" cy="45.81" r="3.45" fill="url(#inkW)" />
+  <circle cx="46.82" cy="34.51" r="3.66" fill="url(#inkW)" />
+  <circle cx="44.40" cy="23.71" r="5.25" fill="#f9a8d4" />
+  <circle cx="67.14" cy="63.40" r="3.25" fill="url(#inkW)" />
+  <circle cx="65.25" cy="39.70" r="3.45" fill="url(#inkW)" />
+  <circle cx="63.77" cy="25.91" r="3.65" fill="url(#inkW)" />
+  <circle cx="62.89" cy="14.00" r="5.23" fill="#f9a8d4" />
+  <circle cx="75.43" cy="66.89" r="3.34" fill="url(#inkW)" />
+  <circle cx="77.85" cy="46.13" r="3.75" fill="url(#inkW)" />
+  <circle cx="77.54" cy="33.59" r="4.09" fill="url(#inkW)" />
+  <circle cx="77.65" cy="22.25" r="5.70" fill="#f9a8d4" />
+  <circle cx="83.28" cy="74.36" r="3.46" fill="url(#inkW)" />
+  <circle cx="83.60" cy="58.50" r="3.90" fill="url(#inkW)" />
+  <circle cx="79.27" cy="62.61" r="3.99" fill="url(#inkW)" />
+  <circle cx="75.97" cy="69.83" r="5.41" fill="#f9a8d4" />
+  <circle cx="69.36" cy="114.00" r="8.5" fill="none" stroke="url(#inkW)" stroke-width="1.6" opacity="0.45" />
+</svg>

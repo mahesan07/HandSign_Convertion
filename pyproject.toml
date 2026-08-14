@@ -1,0 +1,41 @@
+[project]
+name = "handsign-conversion"
+version = "1.0.0"
+description = "Real-time hand-sign recognition with contextual text prediction, and English rendered back as hand signs."
+requires-python = ">=3.10,<3.13"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+# `pip install -e .` puts `ml` and `backend` on the path, so imports work from
+# any directory and scripts can be run by path as well as with `-m`.
+[tool.setuptools]
+packages = [
+    "ml",
+    "ml.scripts",
+    "backend",
+    "backend.app",
+    "backend.app.api",
+    "backend.app.api.routes",
+    "backend.app.core",
+    "backend.app.schemas",
+    "backend.app.scripts",
+    "backend.app.services",
+]
+
+[tool.setuptools.package-data]
+"backend.app" = ["data/*.txt"]
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+testpaths = ["tests"]
+pythonpath = ["."]
+asyncio_mode = "auto"
+addopts = "-q --strict-markers"
+markers = [
+    "slow: needs the real 42 MB classifier or MediaPipe (deselect with '-m \"not slow\"')",
+]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]

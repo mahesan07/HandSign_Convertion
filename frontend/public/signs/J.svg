@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Hand sign for the letter J">
+  <title>Letter J</title>
+  <defs>
+    <linearGradient id="inkJ" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b8cf7" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+  <g stroke="url(#inkJ)" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.92">
+    <line x1="114.00" y1="87.54" x2="101.21" y2="52.50" />
+    <line x1="101.21" y1="52.50" x2="81.05" y2="35.93" />
+    <line x1="81.05" y1="35.93" x2="61.83" y2="35.40" />
+    <line x1="61.83" y1="35.40" x2="50.27" y2="45.11" />
+    <line x1="114.00" y1="87.54" x2="59.57" y2="30.93" />
+    <line x1="59.57" y1="30.93" x2="36.67" y2="39.19" />
+    <line x1="36.67" y1="39.19" x2="44.35" y2="46.44" />
+    <line x1="44.35" y1="46.44" x2="53.95" y2="47.32" />
+    <line x1="59.57" y1="30.93" x2="56.21" y2="53.18" />
+    <line x1="56.21" y1="53.18" x2="36.48" y2="59.04" />
+    <line x1="36.48" y1="59.04" x2="44.87" y2="65.79" />
+    <line x1="44.87" y1="65.79" x2="53.62" y2="65.40" />
+    <line x1="56.21" y1="53.18" x2="56.40" y2="75.99" />
+    <line x1="56.40" y1="75.99" x2="37.06" y2="77.43" />
+    <line x1="37.06" y1="77.43" x2="43.65" y2="82.19" />
+    <line x1="43.65" y1="82.19" x2="52.41" y2="83.15" />
+    <line x1="56.40" y1="75.99" x2="59.03" y2="97.07" />
+    <line x1="59.03" y1="97.07" x2="34.94" y2="92.18" />
+    <line x1="34.94" y1="92.18" x2="23.68" y2="91.71" />
+    <line x1="23.68" y1="91.71" x2="14.00" y2="90.33" />
+    <line x1="114.00" y1="87.54" x2="59.03" y2="97.07" />
+  </g>
+  <circle cx="114.00" cy="87.54" r="3.51" fill="url(#inkJ)" />
+  <circle cx="101.21" cy="52.50" r="3.14" fill="url(#inkJ)" />
+  <circle cx="81.05" cy="35.93" r="3.08" fill="url(#inkJ)" />
+  <circle cx="61.83" cy="35.40" r="3.03" fill="url(#inkJ)" />
+  <circle cx="50.27" cy="45.11" r="4.40" fill="#f9a8d4" />
+  <circle cx="59.57" cy="30.93" r="3.59" fill="url(#inkJ)" />
+  <circle cx="36.67" cy="39.19" r="3.51" fill="url(#inkJ)" />
+  <circle cx="44.35" cy="46.44" r="3.44" fill="url(#inkJ)" />
+  <circle cx="53.95" cy="47.32" r="4.80" fill="#f9a8d4" />
+  <circle cx="56.21" cy="53.18" r="3.86" fill="url(#inkJ)" />
+  <circle cx="36.48" cy="59.04" r="3.69" fill="url(#inkJ)" />
+  <circle cx="44.87" cy="65.79" r="3.51" fill="url(#inkJ)" />
+  <circle cx="53.62" cy="65.40" r="4.88" fill="#f9a8d4" />
+  <circle cx="56.40" cy="75.99" r="4.05" fill="url(#inkJ)" />
+  <circle cx="37.06" cy="77.43" r="3.95" fill="url(#inkJ)" />
+  <circle cx="43.65" cy="82.19" r="3.79" fill="url(#inkJ)" />
+  <circle cx="52.41" cy="83.15" r="5.21" fill="#f9a8d4" />
+  <circle cx="59.03" cy="97.07" r="4.22" fill="url(#inkJ)" />
+  <circle cx="34.94" cy="92.18" r="4.30" fill="url(#inkJ)" />
+  <circle cx="23.68" cy="91.71" r="4.29" fill="url(#inkJ)" />
+  <circle cx="14.00" cy="90.33" r="5.66" fill="#f9a8d4" />
+  <circle cx="114.00" cy="87.54" r="8.5" fill="none" stroke="url(#inkJ)" stroke-width="1.6" opacity="0.45" />
+</svg>
